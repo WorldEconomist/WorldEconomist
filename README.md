@@ -12,3 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bebra
 - 😄 Pronouns: bebra
 - ⚡ Fun fact: bebra
+
+
+![animation gif (2)](https://user-images.githubusercontent.com/109090873/183504390-3297b2b0-6e93-4e17-bb5b-c6562a023135.gif)
+
+
+
+
