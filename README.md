@@ -1,4 +1,4 @@
-# Hello, human! ✴️
+# Hello, human! 🖤
 
 ### Fight time! Fight time! Battle time!
 
