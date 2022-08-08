@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 
 
 
-<img src="[https://user-images.githubusercontent.com/109090873/183506431-fc59262b-928b-44e3-8a8b-a24dec7849ba.gif](https://user-images.githubusercontent.com/109090873/183512150-8a10fb80-b75c-4c9e-8772-5fbda5b0806f.gif)" width="50%"/>
 
-
-
+<img src="https://user-images.githubusercontent.com/109090873/183512366-0cc2f103-1ee8-4c2b-8459-5276ff01e85a.gif" width="100%"/>
