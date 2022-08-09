@@ -9,12 +9,12 @@
 <li>
 🏙 Currently studying on the international trade and economy program 
 <li>
-🌃 Learning 3 foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
+🌃 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
 <li>
-🌌 Have just started implementing programming skills on my economic research 
+🌌 Have just started implementing programming skills on my economic research 🀄️ 
   </br>
 
-❗ Manga > Anime ❗
+📍 Manga > Anime 📍
 </br>
 > btw my Spotify playlist is hard af
 
