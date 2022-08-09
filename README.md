@@ -4,14 +4,14 @@
 <div align = 'right'>
 <div align = 'left'>
 
-🧿 I am a 3rd year student of Plekhanov Russian University of Economics 
+🌀 I am a 3rd year student of Plekhanov Russian University of Economics 
   </br>
 
-🧿 Currently studying on the international trade and economy program 
+🌀 Currently studying on the international trade and economy program 
 
-🧿 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
+🌀 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
 
-🧿 Have just started implementing programming skills on my economic research 
+🌀 Have just started implementing programming skills on my economic research 
   </br>
 
 🎴 Manga > Anime 🎴
