@@ -1,6 +1,5 @@
 ## Hello, human! ✒️ 
-<img width="44%" align = 'right'  src="https://user-images.githubusercontent.com/109090873/183639489-15efa2f0-3548-4375-b2dd-c4eb4659793e.gif">
-
+<img width="44%" align = 'right'  src="https://user-images.githubusercontent.com/109090873/183653385-743b4186-e5ed-415c-8607-660a7e2d87af.gif">
 <div>
 <div align = 'right'>
 <div align = 'left'>
@@ -10,7 +9,7 @@ I am a 3rd year student of Plekhanov Russian University of Economics 🏦
 <li>
 Currently studying on the international trade and economy program 📊
 <li>
-Learning 3 foreign languages including English 🇬🇧 , German 🇩🇪 , Japanese 🇯🇵
+Learning 3 foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
 <li>
 Have just started implementing programming skills on my economic research 📊
   </br>
@@ -18,15 +17,13 @@ Have just started implementing programming skills on my economic research 📊
 ❗ Manga > Anime ❗
 </br>
 > 🔽 btw my Spotify playlist is hard af
- 
-  
-<a href="https://open.spotify.com/playlist/7CQAbSatgzoqWQPIlQYlfz?si=9a8b9cfa18564309" target="_blank"><img src="https://user-images.githubusercontent.com/109090873/183646342-2e8d7283-339d-4976-858a-e9577f200866.jpg" width="15%" align = 'center'/>
+
+<a href="https://open.spotify.com/playlist/7CQAbSatgzoqWQPIlQYlfz?si=9a8b9cfa18564309" target="_blank"><img src="https://user-images.githubusercontent.com/109090873/183652385-a29b7314-8649-436e-9ed5-cbbd276a72eb.jpg" width="10%" align = 'center'/>
   </div>  
   </div>
 </div>
-</br>
-</br>
 <div>
+</br>
 
 #### *Fight time! Fight time! Battle time!*
   <div align = 'center'>
