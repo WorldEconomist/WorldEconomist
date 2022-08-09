@@ -1,4 +1,4 @@
-# Hello, human! 🈳
+# Hello, human! 🌌
 <img width="44%" align = 'right'  src="https://user-images.githubusercontent.com/109090873/183653385-743b4186-e5ed-415c-8607-660a7e2d87af.gif">
 <div>
 <div align = 'right'>
