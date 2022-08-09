@@ -25,7 +25,9 @@ Have just started implementing programming skills on my economic research 📊
 <div>
 </br>
 
-#### *Fight time! Fight time! Battle time!*
-  <div align = 'center'>
-<img src="https://user-images.githubusercontent.com/109090873/183512366-0cc2f103-1ee8-4c2b-8459-5276ff01e85a.gif" width="85%"/> 
+<div align = 'center'>
+
+### *Fight time! Fight time! Battle time!*
+
+<img src="https://user-images.githubusercontent.com/109090873/183512366-0cc2f103-1ee8-4c2b-8459-5276ff01e85a.gif" width="85%"/>
   </div>
