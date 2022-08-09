@@ -4,17 +4,17 @@
 <div align = 'right'>
 <div align = 'left'>
 <li>
-🌇 I am a 3rd year student of Plekhanov Russian University of Economics 
+🔹 I am a 3rd year student of Plekhanov Russian University of Economics 
   </br>
 <li>
-🏙 Currently studying on the international trade and economy program 
+🔹 Currently studying on the international trade and economy program 
 <li>
-🌃 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
+🔹 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
 <li>
-🌌 Have just started implementing programming skills on my economic research 🀄️ 
+🔹 Have just started implementing programming skills on my economic research 📍
   </br>
 
-📍 Manga > Anime 📍
+🎴 Manga > Anime 🎴
 </br>
 > btw my Spotify playlist is hard af
 
