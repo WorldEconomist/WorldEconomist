@@ -5,7 +5,6 @@
 <div align = 'left'>
 
 🌀 I am a 3rd year student of Plekhanov Russian University of Economics 
-  </br>
 
 🌀 Currently studying on the international trade and economy program 
 
