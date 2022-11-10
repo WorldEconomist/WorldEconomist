@@ -13,7 +13,7 @@
 🌀 Have just started implementing programming skills on my economic research 
   </br>
 
-🔹🔹🔹 Manga > Anime 🔹🔹🔹
+
 </br>
 > btw my Spotify playlist is hard af
 
