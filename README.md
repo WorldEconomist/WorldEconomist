@@ -14,7 +14,7 @@
   </br>
 
 
-</br>
+
 > btw my Spotify playlist is hard af
 
 <a href="https://open.spotify.com/playlist/7CQAbSatgzoqWQPIlQYlfz?si=9a8b9cfa18564309" target="_blank"><img src="https://user-images.githubusercontent.com/109090873/183652385-a29b7314-8649-436e-9ed5-cbbd276a72eb.jpg" width="10%" align = 'center'/>
