@@ -4,9 +4,9 @@
 <div align = 'right'>
 <div align = 'left'>
 
-🌀 I am a 3rd year student of Plekhanov Russian University of Economics 
+🌀 I am a 4th year student of Plekhanov Russian University of Economics 
 
-🌀 Currently studying on the international trade and economy program 
+🌀 Currently studying on the international trade and economics programm 
 
 🌀 Learning foreign languages including English 🇬🇧 , Deutsch 🇩🇪 , 日本 🇯🇵
 
