@@ -11,6 +11,8 @@
 🌀 Learning foreign languages including English, Deutsch, 日本
 
 🌀 Have just started implementing programming skills on my economic research 
+
+🌀 My (LeetCode profile)[https://leetcode.com/WorldEconomist/]
   </br>
 
 
