@@ -6,8 +6,6 @@
 
 🌀 Data Analyst Trainee at Nestlé Russia 
 
-🌀 Currently studying on the international trade and economics programm 
-
 🌀 Learning foreign languages including English, Deutsch, 日本
 
 🌀 My [LeetCode profile](https://leetcode.com/WorldEconomist/)
