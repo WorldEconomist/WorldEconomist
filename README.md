@@ -4,7 +4,7 @@
 <div align = 'right'>
 <div align = 'left'>
 
-🌀 Data Analyst Trainee at Nestlé Russia 
+🌀 Data Analyst 
 
 🌀 Learning foreign languages including English, Deutsch, 日本
 
